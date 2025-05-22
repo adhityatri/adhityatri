@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adhitya Tri 👋</h1>
 <p align="center">
-  <b>Software Engineer · VueJs · NuxtJs · ExpressJs · ReactJs</b>
+  <b>Software Engineer · Jember - Indonesia</b>
 </p>
 
 ---
